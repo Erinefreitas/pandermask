@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9de860-700c-4454-ba26-35d606526a42" name="Default Changelist" comment="Projeto até aula do dia 28/01/2021">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/categorias/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/categorias/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/categorias/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/categorias/form.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/produtos/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/produtos/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/produtos/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/produtos/form.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="1d9de860-700c-4454-ba26-35d606526a42" name="Default Changelist" comment="Projeto até aula do dia 28/01/2021" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,6 +209,7 @@
       <workItem from="1613042291263" duration="7000" />
       <workItem from="1613088241821" duration="628000" />
       <workItem from="1613130550155" duration="9000" />
+      <workItem from="1613350366219" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="Projeto até aula do dia 28/01/2021">
       <created>1612379417842</created>
