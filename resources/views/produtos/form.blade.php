@@ -73,7 +73,7 @@
 </div>
 <div class="row" style="margin-top: 10px">
     <div class="col-12">
-        <button type="submit" class="btn btn-primary">Salvar</button>
+        <button type="submit" class="btn btn-success">Salvar</button>
         <a href="{{route('produtos.index')}}" class="btn btn-danger">Cancelar</a>
     </div>
 </div>

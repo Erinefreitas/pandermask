@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d9de860-700c-4454-ba26-35d606526a42" name="Default Changelist" comment="Projeto até aula do dia 28/01/2021">
-      <change afterPath="$PROJECT_DIR$/resources/views/produtos/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProdutoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProdutoController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/clientes/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/clientes/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/categorias/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/categorias/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/categorias/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/categorias/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/produtos/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/produtos/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/produtos/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/produtos/form.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +29,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -147,7 +157,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/produtos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -199,6 +209,14 @@
       <workItem from="1612379285408" duration="269000" />
       <workItem from="1612391848409" duration="44000" />
       <workItem from="1612477801697" duration="4481000" />
+      <workItem from="1612834758589" duration="2149000" />
+      <workItem from="1612869395345" duration="322000" />
+      <workItem from="1612919123669" duration="4540000" />
+      <workItem from="1612956370413" duration="21000" />
+      <workItem from="1613004235661" duration="3987000" />
+      <workItem from="1613042291263" duration="7000" />
+      <workItem from="1613088241821" duration="628000" />
+      <workItem from="1613130550155" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="Projeto até aula do dia 28/01/2021">
       <created>1612379417842</created>
